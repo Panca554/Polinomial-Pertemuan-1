@@ -1,0 +1,11 @@
+(function(){var loadHandler=window['sl_{42370586-615B-47E7-BA7C-DB4CCE0C8892}'];loadHandler&&loadHandler(7, '<div id="spr0_5cd54155"><div id="spr1_5cd54155" class="kern slide"><img id="img2_5cd54155" src="data/img1.png" width="720px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_5cd54155" class="kern slide"><div id="spr3_5cd54155" style="top:-2.77px;"><img id="img0_5cd54155" src="data/img0.png" width="720" height="543" alt="C:\\Users\\Edwin\\Downloads\\3e56860b1d5ddadd4a88c0558c191792.jpg" style="top:-0.115px;"/></div><div id="svg0_5cd54155" style="left:-45.852px;top:-43.26px;"><svg width="765" height="587" viewBox="-73.817 -73.817 765 587"><path fill="#ffffff" stroke="#385d8a" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" d="M1,73.817 a72.817,72.817 0 0,1 72.817,-72.817 h468.898 a72.817,72.817 0 0,1 72.817,72.817 v291.258 a72.817,72.817 0 0,1 -72.817,72.817 h-468.898 a72.817,72.817 0 0,1 -72.817,-72.817 Z" fill-rule="evenodd"/></svg></div><div id="spr4_5cd54155" style="left:58px;top:85px;"><img id="img1_5cd54155" src="data/img8.png" width="497" height="338" alt="Operasi aljabar\
+Penjumlahan dan pengurangan\
+Contoh:\
+Diketahui:f(x)=  2𝑥 3 +5𝑥−2\
+		 g(x)=  𝑥 2 −2𝑥+3\
+		 h(x)=  5𝑥 2 +𝑥\
+Tentukan hasil dari f(x)-g(x)+h(x)!\
+Jawab:\
+( 2𝑥 3 +5𝑥−2)-  (𝑥 2 −2𝑥+3)+ ( 5𝑥 2 +𝑥)\
+ =2𝑥 3 -  𝑥 2 +5 𝑥 2 +5𝑥+2𝑥+𝑥−2−3\
+ =2𝑥 3 + 𝑥 2 +8x−5"/></div><div id="svg3_5cd54155" style="left:590.467px;top:466.447px;"><svg width="90" height="61" viewBox="-1 -1 90 61"><a xlink:href="#" onclick="document.getElementById(\'coreSpr_13948284\').getCore().processTriggerEffect(this);document.getElementById(\'coreSpr_13948284\').getCore().gotoSlide(3, this);return false;" fill="none"><g><path fill="#000000" stroke="#000000" stroke-width="2" stroke-linecap="butt" stroke-linejoin="round" transform="matrix(-1,-0,0,-1,86.048813,57.699215)" d="M0,42.524 v-28.35 L56.699,14.175 v-14.175 l28.35,28.35 l-28.35,28.35 v-14.175 Z"/></g></a></svg></div></div></div>', '{"s":[]}');})();
